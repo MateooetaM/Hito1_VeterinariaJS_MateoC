@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Max",
+    "edad": "5 meses",
+    "especie": "perro",
+    "color": "cafe",
+    "enfermedad": "lesion en pata trasera"
+  },
+  {
+    "nombre": "Luna",
+    "edad": "9 meses",
+    "especie": "gato",
+    "color": "blanco con negro",
+    "enfermedad": "resfrio"
+  }
+]
